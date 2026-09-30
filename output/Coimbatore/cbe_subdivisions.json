@@ -1,0 +1,192 @@
+{
+  "METTUPALAYAM": [
+    {
+      "name": "ANNUR SOUTH",
+      "id": "43033"
+    },
+    {
+      "name": "KARAMADAI",
+      "id": "43032"
+    },
+    {
+      "name": "RURAL METTUPALAYAM",
+      "id": "43034"
+    },
+    {
+      "name": "TOWN METTUPALAYAM",
+      "id": "43031"
+    }
+  ],
+  "K.VADAMADURAI": [
+    {
+      "name": "KOVILPALAYAM",
+      "id": "43025"
+    },
+    {
+      "name": "NORTH THUDIYALUR",
+      "id": "43022"
+    },
+    {
+      "name": "PERIYANAICKENPALAYAM",
+      "id": "43024"
+    },
+    {
+      "name": "SARAVANAMPATTY",
+      "id": "43023"
+    },
+    {
+      "name": "SOUTH THUDIYALUR",
+      "id": "43021"
+    }
+  ],
+  "SEERANAICKENPALAYAM": [
+    {
+      "name": "MADHAMPATTY",
+      "id": "43012"
+    },
+    {
+      "name": "PERUR",
+      "id": "43013"
+    },
+    {
+      "name": "SEERANAICKENPALAYAM",
+      "id": "43011"
+    },
+    {
+      "name": "THONDAMUTHUR",
+      "id": "43014"
+    }
+  ],
+  "ONDIPUDUR": [
+    {
+      "name": "CHINNIYAMPALAYAM",
+      "id": "43534"
+    },
+    {
+      "name": "ONDIPUDUR",
+      "id": "43531"
+    },
+    {
+      "name": "SINGANALLUR",
+      "id": "43532"
+    },
+    {
+      "name": "SULUR",
+      "id": "43533"
+    }
+  ],
+  "CENTRAL": [
+    {
+      "name": "BAZZAR WEST",
+      "id": "43512"
+    },
+    {
+      "name": "CENTRAL",
+      "id": "43511"
+    },
+    {
+      "name": "PAPPANAICKENPALAYAM",
+      "id": "43516"
+    },
+    {
+      "name": "PULIAKULAM",
+      "id": "43514"
+    },
+    {
+      "name": "R.S.PURAM NORTH",
+      "id": "43518"
+    },
+    {
+      "name": "R.S.PURAM SOUTH",
+      "id": "43517"
+    },
+    {
+      "name": "RACE COURSE",
+      "id": "43513"
+    },
+    {
+      "name": "RAM NAGAR",
+      "id": "435110"
+    },
+    {
+      "name": "RAMANATHAPURAM",
+      "id": "43515"
+    },
+    {
+      "name": "TATABAD",
+      "id": "43519"
+    }
+  ],
+  "URBAN": [
+    {
+      "name": "AVARAMPALAYAM",
+      "id": "43524"
+    },
+    {
+      "name": "PEELAMEDU",
+      "id": "43522"
+    },
+    {
+      "name": "THANEERPANDAL",
+      "id": "43523"
+    },
+    {
+      "name": "URBAN",
+      "id": "43521"
+    }
+  ],
+  "Somanur": [
+    {
+      "name": "Arasur",
+      "id": "43244"
+    },
+    {
+      "name": "Mangalam",
+      "id": "43243"
+    },
+    {
+      "name": "North Somanur",
+      "id": "43242"
+    },
+    {
+      "name": "Town Somanur",
+      "id": "43241"
+    }
+  ],
+  "Kuniamuthur": [
+    {
+      "name": "Kuniyamuthur",
+      "id": "43231"
+    },
+    {
+      "name": "Kurichi",
+      "id": "43234"
+    },
+    {
+      "name": "Madukkarai",
+      "id": "43232"
+    },
+    {
+      "name": "Podanur",
+      "id": "43233"
+    }
+  ],
+  "Negamam": [
+    {
+      "name": "Kinathukadavu",
+      "id": "43253"
+    },
+    {
+      "name": "Mill Kovilpalayam",
+      "id": "43252"
+    },
+    {
+      "name": "Negamam",
+      "id": "43251"
+    },
+    {
+      "name": "Sulthanpet",
+      "id": "43254"
+    }
+  ]
+}

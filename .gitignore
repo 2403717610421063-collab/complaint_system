@@ -1,0 +1,79 @@
+# =========================
+# Firebase / Secrets
+# =========================
+.env
+*.key
+*.pem
+google-services.json
+firebase.json
+lib/firebase_options.dart
+lib/models/Application.dart
+# =========================
+# Dart / Flutter
+# =========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# =========================
+# Android
+# =========================
+android/build/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/.gradle/
+*.apk
+*.aab
+
+# =========================
+# iOS / macOS
+# =========================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# =========================
+# Windows / Linux
+# =========================
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# =========================
+# IDEs / Editors
+# =========================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# =========================
+# OS / Misc
+# =========================
+.DS_Store
+*.class
+*.log
+*.pyc
+*.swp
+.history
+.svn/
+.swiftpm/
+.build/
+.buildlog/
+.atom/
+migrate_working_dir/
+
+# =========================
+# Symbol / Obfuscation
+# =========================
+app.*.symbols
+app.*.map.json

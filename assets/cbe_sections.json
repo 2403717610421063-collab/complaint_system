@@ -1,0 +1,503 @@
+{
+  "KARAMADAI": [
+    {
+      "name": "EAST KARAMADAI",
+      "id": "AE430331"
+    },
+    {
+      "name": "WEST KARAMADAI",
+      "id": "AE430332"
+    },
+    {
+      "name": "NORTH DHAYANUR",
+      "id": "AE430334"
+    },
+    {
+      "name": "SOUTH DHAYANUR",
+      "id": "AE430333"
+    }
+  ],
+
+  "KOVILPALAYAM": [
+    {
+      "name": "KOVILPALAYAM",
+      "id": "AE430221"
+    },
+    {
+      "name": "GANESHPURAM",
+      "id": "AE430223"
+    },
+    {
+      "name": "KURUMBAPALAYAM",
+      "id": "AE430224"
+    },
+    {
+      "name": "P.G.PUDUR",
+      "id": "AE430222"
+    }
+  ],
+  "TOWN METTUPALAYAM": [
+    {
+      "name": "URBAN METTUPALAYAM",
+      "id": "AE430315"
+    },
+    {
+      "name": "TOWN SOUTH METTUPALAYAM",
+      "id": "AE430312"
+    },
+    {
+      "name": "THEKKAMPATTI",
+      "id": "AE430314"
+    },
+    {
+      "name": "TOWN NORTH METTUPALAYAM",
+      "id": "AE430311"
+    }
+  ],
+  "SARAVANAMPATTY": [
+    {
+      "name": "SARAVANAMPATTY",
+      "id": "AE430211"
+    },
+    {
+      "name": "CHINNAVEDAMPATTY",
+      "id": "AE430212"
+    },
+    {
+      "name": "KEERANATHAM",
+      "id": "AE430214"
+    },
+    {
+      "name": "IDIGARAI",
+      "id": "AE430213"
+    },
+    {
+      "name": "KRISHNAPURAM",
+      "id": "AE430215"
+    }
+  ],
+  "SOUTH THUDIYALUR": [
+    {
+      "name": "PANNIMADAI",
+      "id": "AE430233"
+    },
+    {
+      "name": "URUMANDAMPALAYAM",
+      "id": "AE430235"
+    },
+    {
+      "name": "EAST THUDIYALUR",
+      "id": "AE430231"
+    },
+    {
+      "name": "WEST THUDIAYALUR",
+      "id": "AE430232"
+    },
+    {
+      "name": "CHINNATHADAGM",
+      "id": "AE430234"
+    }
+  ],
+  "ANNUR SOUTH": [
+    {
+      "name": "ANNUR SOUTH",
+      "id": "AE430341"
+    },
+    {
+      "name": "KARIYAMPALAYAM",
+      "id": "AE430342"
+    },
+    {
+      "name": "POGALUR",
+      "id": "AE430343"
+    }
+  ],
+  "PERUR": [
+    {
+      "name": "VEDAPATTY",
+      "id": "AE430123"
+    },
+    {
+      "name": "KALAMPALAYAM",
+      "id": "AE430122"
+    },
+    {
+      "name": "PERUR",
+      "id": "AE430121"
+    }
+  ],
+  "NORTH THUDIYALUR": [
+    {
+      "name": "TOWN SOUTH PERIANAICKEN PALAYAM",
+      "id": "AE430243"
+    },
+    {
+      "name": "NSN PALAYAM",
+      "id": "AE430241"
+    },
+    {
+      "name": "VADAMADURAI",
+      "id": "AE430242"
+    }
+  ],
+  "SEERANAICKENPALAYAM": [
+    {
+      "name": "LUNANAGAR",
+      "id": "AE430111"
+    },
+    {
+      "name": "P.N.PUDUR",
+      "id": "AE430112"
+    },
+    {
+      "name": "SOMAYAM PALAYAM",
+      "id": "AE430113"
+    },
+    {
+      "name": "BHARATHIYAR UNIVERSITY",
+      "id": "AE430144"
+    }
+  ],
+  "MADHAMPATTY": [
+    {
+      "name": "WEST ALANDURAI",
+      "id": "AE430132"
+    },
+    {
+      "name": "EAST ALANDURAI",
+      "id": "AE430133"
+    },
+    {
+      "name": "MADHAMPATTY",
+      "id": "AE430131"
+    }
+  ],
+  "PERIYANAICKENPALAYAM": [
+    {
+      "name": "NAICKENPALAYAM",
+      "id": "AE430255"
+    },
+    {
+      "name": "TOWN PERIANAICKENPALAYAM",
+      "id": "AE430251"
+    },
+    {
+      "name": "JOTHIPURAM",
+      "id": "AE430254"
+    },
+    {
+      "name": "EAST PERIANAICKEN PALYAM",
+      "id": "AE430252"
+    },
+    {
+      "name": "WEST PERIANAICKEN PALAYAM",
+      "id": "AE430253"
+    }
+  ],
+  "THONDAMUTHUR": [
+    {
+      "name": "DEVARAYAPURAM",
+      "id": "AE430142"
+    },
+    {
+      "name": "K.N.PALAYAM",
+      "id": "AE430143"
+    },
+    {
+      "name": "THONDAMUTHUR",
+      "id": "AE430141"
+    }
+  ],
+  "RURAL METTUPALAYAM": [
+    {
+      "name": "PETTHIKUTTAI",
+      "id": "AE430322"
+    },
+    {
+      "name": "RURAL METTUPALAYAM",
+      "id": "AE430313"
+    },
+    {
+      "name": "SIRUMUGAI",
+      "id": "AE430321"
+    }
+  ],
+  "SULUR": [
+    {
+      "name": "KARANAMPETTAI",
+      "id": "AE435332"
+    },
+    {
+      "name": "SULUR NORTH",
+      "id": "AE435334"
+    },
+    {
+      "name": "SULUR SOUTH",
+      "id": "AE435333"
+    },
+    {
+      "name": "KANGEYAMPALAYAM",
+      "id": "AE435350"
+    },
+    {
+      "name": "SULUR TOWN",
+      "id": "AE435331"
+    }
+  ],
+  "ONDIPUDUR": [
+    {
+      "name": "PALLAPALAYAM",
+      "id": "AE435313"
+    },
+    {
+      "name": "KANNAMPALAYAM",
+      "id": "AE435314"
+    },
+    {
+      "name": "ONDIPUDUR",
+      "id": "AE435311"
+    },
+    {
+      "name": "NADUPALAYAM",
+      "id": "AE435348"
+    },
+    {
+      "name": "PATTANAM",
+      "id": "AE435312"
+    },
+    {
+      "name": "GANDHINAGAR",
+      "id": "AE435315"
+    }
+  ],
+  "CENTRAL": [
+    {
+      "name": "PONNAIHRAJA PURAM",
+      "id": "AE435138"
+    },
+    {
+      "name": "SELVAPURAM",
+      "id": "AE435116"
+    },
+    {
+      "name": "KRISHNASWAMYNAGAR",
+      "id": "AE435139"
+    },
+    {
+      "name": "UKKADAM",
+      "id": "AE435114"
+    },
+    {
+      "name": "BAZZAR EAST",
+      "id": "AE435112"
+    },
+    {
+      "name": "LAWLEY ROAD",
+      "id": "AE435137"
+    },
+    {
+      "name": "TOWN HALL",
+      "id": "AE435111"
+    }
+  ],
+  "URBAN": [
+    {
+      "name": "KAVUNDAPALAYAM",
+      "id": "AE435213"
+    },
+    {
+      "name": "VELANDIPALAYAM",
+      "id": "AE435211"
+    },
+    {
+      "name": "SAI BABA COLONY",
+      "id": "AE435212"
+    },
+    {
+      "name": "SANGANOOR",
+      "id": "AE435214"
+    },
+    {
+      "name": "KAVUNDAPALAYAM SOUTH",
+      "id": "AE435234"
+    },
+    {
+      "name": "RATHINAPURI",
+      "id": "AE435215"
+    },
+    {
+      "name": "GANESH NAGAR",
+      "id": "AE435217"
+    },
+    {
+      "name": "EDAYARPALAYAM",
+      "id": "AE435216"
+    }
+  ],
+  "North Somanur": [
+    {
+      "name": "CHENNIANDAVAR KOVIL",
+      "id": "AE432293"
+    },
+    {
+      "name": "SENTHIL NAGAR",
+      "id": "AE432424"
+    },
+    {
+      "name": "KARUMATHAMPATTY",
+      "id": "AE432423"
+    },
+    {
+      "name": "WEST THEKKALUR",
+      "id": "AE432421"
+    },
+    {
+      "name": "EAST THEKALUR",
+      "id": "AE432422"
+    }
+  ],
+  "PULIAKULAM": [
+    {
+      "name": "PULIYAKULAM",
+      "id": "AE435122"
+    }
+  ],
+  "CHINNIYAMPALAYAM": [
+    {
+      "name": "CHINNIYAMPALAYAM WEST",
+      "id": "AE435341"
+    },
+    {
+      "name": "CHINNIYAMPALAYAM NORTH",
+      "id": "AE435345"
+    },
+    {
+      "name": "VELLANAIPATTY",
+      "id": "AE435363"
+    },
+    {
+      "name": "KALAPATTY",
+      "id": "AE435342"
+    },
+    {
+      "name": "NEHRU NAGAR",
+      "id": "AE435347"
+    },
+    {
+      "name": "CIVIL AERO",
+      "id": "AE435339"
+    },
+    {
+      "name": "CHINNIYAMPALAYAM EAST",
+      "id": "AE435346"
+    }
+  ],
+  "SINGANALLUR": [
+    {
+      "name": "IRUGUR",
+      "id": "AE435324"
+    },
+    {
+      "name": "SINGANALLUR WEST",
+      "id": "AE435321"
+    },
+    {
+      "name": "VARATHARAJAPURAM",
+      "id": "AE435325"
+    },
+    {
+      "name": "SINGANALLUR EAST",
+      "id": "AE435322"
+    },
+    {
+      "name": "SOWRIPALAYAM",
+      "id": "AE435323"
+    },
+    {
+      "name": "AGPUDR",
+      "id": "AE435349"
+    }
+  ],
+  "Town Somanur": [
+    {
+      "name": "SAMALAPURAM",
+      "id": "AE432413"
+    },
+    {
+      "name": "TOWN SOMANUR",
+      "id": "AE432411"
+    },
+    {
+      "name": "RURAL SOMANUR",
+      "id": "AE432412"
+    },
+    {
+      "name": "KANIYUR",
+      "id": "AE432414"
+    }
+  ],
+  "Kuniyamuthur": [
+    {
+      "name": "KUNIAMUTHUR TOWN",
+      "id": "AE432341"
+    },
+    {
+      "name": "B.K.PUDUR",
+      "id": "AE432345"
+    },
+    {
+      "name": "KOVAIPUDUR",
+      "id": "AE432343"
+    },
+    {
+      "name": "AATHUPALAM",
+      "id": "AE432342"
+    },
+    {
+      "name": "SUNDARAPURAM",
+      "id": "AE432325"
+    }
+  ],
+  "BAZZAR WEST": [
+    {
+      "name": "BAZZAR WEST",
+      "id": "AE435113"
+    }
+  ],
+  "R.S.PURAM SOUTH": [
+    {
+      "name": "R.S.PURAM SOUTH",
+      "id": "AE435131"
+    }
+  ],
+  "R.S.PURAM NORTH": [
+    {
+      "name": "R.S.PURAM NORTH",
+      "id": "AE435132"
+    }
+  ],
+  "PEELAMEDU": [
+    {
+      "name": "PEELAMEDU TOWN",
+      "id": "AE435223"
+    },
+    {
+      "name": "PEELAMEDU TOWN EAST",
+      "id": "AE435224"
+    },
+    {
+      "name": "GANAPATHY",
+      "id": "AE435221"
+    },
+    {
+      "name": "GANDHI MAA NAGAR",
+      "id": "AE435228"
+    }
+  ],
+  "TATABAD": [
+    {
+      "name": "TATABAD",
+      "id": "AE435133"
+    }
+  ]
+}
